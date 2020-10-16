@@ -82,3 +82,7 @@ section section {
   margin: 0, 89px;
   width: 20%;
 }
+
+.principal a:hover {
+  color:#ffe36d;
+}
