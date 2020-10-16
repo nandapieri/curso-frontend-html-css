@@ -86,3 +86,15 @@ section section {
 .principal a:hover {
   color:#ffe36d;
 }
+
+button {
+  background-color: #41f341;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  padding: 2px;
+  margin: 0,20px;
+}
+
+form {
+  margin-bottom: 30px;
+}
